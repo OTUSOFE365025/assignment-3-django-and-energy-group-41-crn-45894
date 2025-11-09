@@ -87,6 +87,12 @@ ID: 2	Username: Robert
 
 :mortar_board: Django Models
 ----------------------------
+##  Cash Register Application Overview
+This project implements a simple cash register system using Django ORM. 
+The database stores product UPC codes, names, and prices. 
+The `main.py` file allows scanning a product (by entering its UPC) to display its 
+name and price, simulating the checkout process. 
+This demonstrates the use of Djang
 
 Link: [How to Use Django Models](https://docs.djangoproject.com/en/3.1/topics/db/models/)
 
