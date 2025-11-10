@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-cPJVYMd)
 Django ORM Standalone
 =====================
 
@@ -54,6 +55,9 @@ Run the project
 python main.py
 ```
 
+<img width="1393" height="805" alt="image" src="https://github.com/user-attachments/assets/ad0cbba3-07e8-44b6-ae83-0b2c7d142686" />
+<img width="1400" height="339" alt="image" src="https://github.com/user-attachments/assets/0fff34f6-ce25-4157-ae68-f2a05971ac61" />
+
 Feel free to send pull requests if you want to improve this project.
 
 :crystal_ball: Example
@@ -86,6 +90,12 @@ ID: 2	Username: Robert
 
 :mortar_board: Django Models
 ----------------------------
+##  Cash Register Application Overview
+This project implements a simple cash register system using Django ORM. 
+The database stores product UPC codes, names, and prices. 
+The `main.py` file allows scanning a product (by entering its UPC) to display its 
+name and price, simulating the checkout process. 
+This demonstrates the use of Djang
 
 Link: [How to Use Django Models](https://docs.djangoproject.com/en/3.1/topics/db/models/)
 
