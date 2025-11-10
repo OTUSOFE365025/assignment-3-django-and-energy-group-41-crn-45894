@@ -55,6 +55,9 @@ Run the project
 python main.py
 ```
 
+<img width="1393" height="805" alt="image" src="https://github.com/user-attachments/assets/ad0cbba3-07e8-44b6-ae83-0b2c7d142686" />
+<img width="1400" height="339" alt="image" src="https://github.com/user-attachments/assets/0fff34f6-ce25-4157-ae68-f2a05971ac61" />
+
 Feel free to send pull requests if you want to improve this project.
 
 :crystal_ball: Example
